@@ -4,7 +4,7 @@
 # Manual
 
 ## Juego de adivinanzas
-Este juego te desafiará a adivinar un número secreto en la menor cantidad de intentos posibles. Sigue las instrucciones a continuación para disfrutar del juego.
+Este juego te desafiará a adivinar un número secreto entre el número 1 y el 10 en la menor cantidad de intentos posibles. Sigue las instrucciones a continuación para disfrutar del juego.
 
 ## Iniciar la aplicación
 1. Ejecuta el script en Python proporcionado (juego_adivinanzas.py).
